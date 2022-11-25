@@ -4,6 +4,8 @@
 
 ## Description
 
+Project link [here](https://koapushjin.github.io/advanced-js-projects/Spring2021-hit-the-virus/)
+
 This is an interactive game of launching the ball to killing the virus. Under the general background of Covid-19, humans as a community make every effort to fight against the virus. By consistant trials, we are believed to win the game and to conquer our current difficulties:D
 
 ## Usage
